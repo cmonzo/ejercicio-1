@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+}
+ol.a{
+    text-align: center;
+}span.b{
+    color: brown;
+}
+footer{
+    background-color: white;
+    text-align: center;
+}
+header{
+    color: white;
+    background-color: black;
+}
